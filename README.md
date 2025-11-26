@@ -18,18 +18,16 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 
 ---
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - **HTML5** – Estrutura da página  
 - **CSS3** – Estilização e responsividade  
-- **JavaScript** – Validação básica dos dados  
-- **Git & GitHub** – Controle de versão e hospedagem  
+- **JavaScript** – Validação básica dos dados   
 
 ---
 
 ## Estrutura do Projeto
 
-/
 ├── index.html
 ├── style.css
 └── script.js# login-page-basic-auth
