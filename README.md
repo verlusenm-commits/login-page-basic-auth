@@ -1,4 +1,4 @@
-# 🔐 Login Page – Basic Auth Simulation
+# Login Page – Basic Auth Simulation
 
 Este projeto é uma **tela de login simples e responsiva**, desenvolvida com **HTML, CSS e JavaScript**, criada com o objetivo de demonstrar conhecimentos básicos em front-end e simulação de autenticação em aplicações web.
 
@@ -8,17 +8,17 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 🔸 Interface de login responsiva  
-- 🔸 Validação simples de usuário e senha no front-end  
-- 🔸 Exibição de mensagens de erro e sucesso  
-- 🔸 Estrutura limpa e organizada seguindo boas práticas  
-- 🔸 Compatível com GitHub Pages para demonstração online  
+- Interface de login responsiva  
+- Validação simples de usuário e senha no front-end  
+- Exibição de mensagens de erro e sucesso  
+- Estrutura limpa e organizada seguindo boas práticas  
+- Compatível com GitHub Pages para demonstração online  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** – Estrutura da página  
 - **CSS3** – Estilização e responsividade  
@@ -27,7 +27,7 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 /
 ├── index.html
@@ -36,7 +36,7 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi criado como parte do meu desenvolvimento em:
 - Fundamentos de front-end  
@@ -49,19 +49,19 @@ Também demonstra minha capacidade de criar pequenas interfaces funcionais, um p
 
 ---
 
-## ▶️ Como testar o projeto
+## Como testar o projeto
 
-### 🔹 **Online (GitHub Pages)**
+### **Online (GitHub Pages)**
 > https://verlusenm-commits.github.io/login-page-basic-auth/`
 
-## 📸 Preview da Interface
+## Preview da Interface
 
 <img width="951" height="606" alt="image" src="https://github.com/user-attachments/assets/e3db5c56-6c5e-4c05-b007-06d0590f6430" />
 
 
 ---
 
-## 💡 Próximas melhorias (roadmap)
+## Próximas melhorias (roadmap)
 
 - [ ] Implementar autenticação real com API  
 - [ ] Adicionar animações e microinterações  
@@ -70,7 +70,7 @@ Também demonstra minha capacidade de criar pequenas interfaces funcionais, um p
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## Desenvolvido por
 
 **Verluse**  
 Estudante de Análise e Desenvolvimento de Sistemas  
