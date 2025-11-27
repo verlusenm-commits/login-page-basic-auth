@@ -50,7 +50,7 @@ Também demonstra minha capacidade de criar pequenas interfaces funcionais, um p
 
 ## Preview da Interface
 
-<img width="951" height="606" alt="image" src="https://github.com/user-attachments/assets/e3db5c56-6c5e-4c05-b007-06d0590f6430" />
+<img width="788" height="464" alt="image" src="https://github.com/user-attachments/assets/e8166765-1fb9-43ff-8901-547c20fd85d8" />
 
 
 ---
