@@ -31,7 +31,8 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 \
 ├── index.html
 ├── style.css
-└── script.js# login-page-basic-auth
+└── script.js
+# login-page-basic-auth
 
 ---
 
