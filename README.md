@@ -66,7 +66,7 @@ Também demonstra minha capacidade de criar pequenas interfaces funcionais, um p
 
 ## Desenvolvido por
 
-**Verluse**  
+**Verluse Martins**  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Focada em Desenvolvimento Fullstack, SaaS e inovação tecnológica  
 
