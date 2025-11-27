@@ -32,7 +32,6 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 ├── index.html
 ├── style.css
 └── script.js
-# login-page-basic-auth
 
 ---
 
@@ -48,11 +47,6 @@ Este projeto foi criado como parte do meu desenvolvimento em:
 Também demonstra minha capacidade de criar pequenas interfaces funcionais, um ponto importante para vagas de estágio em tecnologia.
 
 ---
-
-## Como testar o projeto
-
-### **Online (GitHub Pages)**
-> https://verlusenm-commits.github.io/login-page-basic-auth/`
 
 ## Preview da Interface
 
