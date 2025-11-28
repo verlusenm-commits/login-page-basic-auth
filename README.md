@@ -28,7 +28,6 @@ Uma tela de login moderna e responsiva que simula um sistema de autenticação. 
 
 ## Estrutura do Projeto
 
-\
 ├── index.html
 ├── style.css
 └── script.js
